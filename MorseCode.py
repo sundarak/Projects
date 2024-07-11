@@ -126,7 +126,9 @@ def decrypt(input_text):
     return output
 
 def record_morse_input():
-    print("Use space bar for dot and a longer press for dash. Press '1' for space between letters. Press enter when done.")
+    print("Use space bar for dot and a longer press for dash.") 
+    print("Press '1' for space between letters. Double press 1 for space between words.") 
+    print("Press enter when done.")
     input_sequence = []
     start_time = None
 
