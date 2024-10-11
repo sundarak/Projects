@@ -8,5 +8,5 @@ Text-based adventure games were first popularized in the late 1970's and early 1
 
 The environment that the player will navigate through is two-dimensional, so let's assume a 2D, integer Cartesian coordinate system. This means the player's current position on the map can be modeled by two integers representing their `x` and `y` location. The player should be able to move north (i.e. in the positive-`y` direction), south (i.e. in the negative-`y` direction), east (i.e. in the positive-`x` direction), and west (i.e. in the negative-`x` direction) through the environment.
 
-To make things more intersting, the game is basically in a virtual, test based map of Chapel Hill!
+To make things more intersting, the game is basically in a virtual, text based map of Chapel Hill!
 
